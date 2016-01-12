@@ -1,0 +1,28 @@
+name: Socion
+favicon: null
+layout_spectrum: 0.11795175564475358
+typography_spectrum: 0.4279778301715851
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.20547991711646318
+  lightness: 0.7613316774368286
+  saturation: 0.6945897294208407
+  rhythmicContrast: 0.27404053090140224
+purpose: []
